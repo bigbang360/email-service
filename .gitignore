@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+email-service/mvnw.cmd
+email-service/mvnw
+email-service/.mvn/wrapper/maven-wrapper.jar
+email-service/.mvn/wrapper/maven-wrapper.properties
+email-service/.mvn/wrapper/maven-wrapper.jar
+
+.vscode/settings.json
