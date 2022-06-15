@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>io.github.bigbang360</groupId>
 	<artifactId>email-service</artifactId>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<name>email-service</name>
 	<description>Provides a simple interface to generate and send email messages. Allows emails to be templatized.</description>
 	<licenses>
@@ -59,7 +59,7 @@
 
 	<build>
 		<plugins>
-			<plugin>
+			<!-- <plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
@@ -70,7 +70,7 @@
 						</exclude>
 					</excludes>
 				</configuration>
-			</plugin>
+			</plugin> -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
